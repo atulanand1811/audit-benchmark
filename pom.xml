@@ -89,6 +89,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<build>
+		<finalName>Audit-Benchmark</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
